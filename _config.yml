@@ -21,15 +21,15 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "唐健"
+  name             : "Yulin Chen"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "华中科技大学"
-  location         : "湖北 武汉"
-  employer         : #"Hefei General Machinery Research Institute"
+  bio              : "Carnegie Mellon University"
+  location         : "USA, China"
+  employer         : 
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=WMkMTb4AAAAJ"
-  email            : "tangj@hust.edu.cn"
-  researchgate     : "https://www.researchgate.net/profile/Jian-Tang-53"
+  googlescholar    : "https://scholar.google.com/citations?user=cRWt25kAAAAJ&hl=en&authuser=1"
+  email            : "maolidgcyl@gmail.com"
+  researchgate     : "https://www.researchgate.net/profile/Yulin-Chen-26?ev=hdr_xprf"
   uri              : 
   bitbucket        :
   codepen          :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "tangjyan"
+  github           : "maoli0921"
   google_plus      :
   keybase          :
   instagram        :
